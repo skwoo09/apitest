@@ -1,28 +1,30 @@
-[
+{
+  "data": [
     {
-        "TagName": "SCMS.M16A.6EK41002.SCR.6EK41002_A.WRN.INL3_PRES",
-        "data": [
-            {
-                "Date": "2021-01-08T19:37:15",
-                "Value": "1",
-                "p_good": "PercentGood"
-            }
-        ],
-        "ValueType": 4,
-        "p_good": "PercentGood",
-        "Error": null
+      "TagName": "SCMS.M16A.6EK41002.SCR.6EK41002_A.WRN.INL3_PRES",
+      "data": [
+        {
+          "Date": "2021-01-08T19:37:15",
+          "Value": "1",
+          "p_good": "PercentGood"
+        }
+      ],
+      "ValueType": 4,
+      "p_good": "PercentGood",
+      "Error": null
     },
     {
-        "TagName": "UPW.M16A.FAB.TRAIN.UPWP_DI_6351A_AMP.PUMP.READ_PVLAST",
-        "data": [
-            {
-                "Date": "2021-01-19T13:57:29",
-                "Value": "62.044",
-                "p_good": "PercentGood"
-            }
-        ],
-        "ValueType": 4,
-        "p_good": "PercentGood",
-        "Error": null
+      "TagName": "UPW.M16A.FAB.TRAIN.UPWP_DI_6351A_AMP.PUMP.READ_PVLAST",
+      "data": [
+        {
+          "Date": "2021-01-19T13:57:29",
+          "Value": "62.044",
+          "p_good": "PercentGood"
+        }
+      ],
+      "ValueType": 4,
+      "p_good": "PercentGood",
+      "Error": null
     }
-]
+  ]
+}
